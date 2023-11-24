@@ -1,0 +1,4 @@
+name: TerrariaDeath
+version: '${project.version}'
+main: io.github.michaelkilgore.terrariadeath.TerrariaDeath
+api-version: '1.20'
