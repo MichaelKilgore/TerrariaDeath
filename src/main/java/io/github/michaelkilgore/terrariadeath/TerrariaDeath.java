@@ -38,6 +38,11 @@ public final class TerrariaDeath extends JavaPlugin implements Listener {
             .add(Material.REDSTONE)
             .add(Material.REDSTONE_ORE)
 
+            .add(Material.OBSIDIAN)
+            .add(Material.QUARTZ)
+            .add(Material.QUARTZ_BLOCK)
+            .add(Material.WITHER_SKELETON_SKULL)
+
             .build();
 
     @Override
